@@ -1,0 +1,6 @@
+Enables you to sort out your music files, by artist, album and title, 
+in a tree. You can add branvhes to this tree of artist, then album, 
+and finally title. A file mybe dragged to this location, to be tagged 
+with the values contained on the branch tags. This means that if the 
+song is dragged into a artist/album branch, it will have its artist 
+and album tags updated to the ones in its parent artist/album branches. 
